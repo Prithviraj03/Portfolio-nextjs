@@ -2,8 +2,8 @@ import { NextResponse } from "next/server";
 import Nodemailer from "nodemailer";
 import { MailtrapTransport } from "mailtrap";
 
-const TOKEN = process.env.MAILTRAP_TOKEN || 
-const fromEmail = process.env.FROM_EMAIL || 
+const TOKEN = process.env.MAILTRAP_TOKEN;  
+const fromEmail = process.env.FROM_EMAIL;  
 
 const transport = Nodemailer.createTransport(
     MailtrapTransport({
