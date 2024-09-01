@@ -9,7 +9,7 @@ const projectsData = [
     id: 1,
     title: "AI Chess",
     description: "Project 1 description",
-    image: "./images/projects/1.png",
+    image: "/Portfolio-nextjs/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Prithviraj03/Chess_AI.git",
     previewUrl: "/",
