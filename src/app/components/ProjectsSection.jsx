@@ -36,7 +36,7 @@ const projectsData = [
     id: 4,
     title: "Real Time Object Detection",
     description: "Project 4 description",
-    image: "/Portfolio-nextjs/images/projects/4.png",
+    image: "./images/projects/4.png",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/Prithviraj03/Real-Time-Object-Detection-Using-Different-Edge-Detection-Technique.git",
     previewUrl: "/",
