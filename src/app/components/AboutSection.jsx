@@ -44,7 +44,7 @@ const TAB_DATA = [
     id: "publications",
     content: (
       <ul className="list-disc pl-2">
-        <li><a href = "/../../../Papers/Real-Time Object Detection Using Different Edge Detection Technique.pdf"> Real-Time Object Detection Using Different Edge Detection Techniques <br /> (Click Here)  </a> </li>
+        <li><a href = "./Papers/Real-Time Object Detection Using Different Edge Detection Technique.pdf"> Real-Time Object Detection Using Different Edge Detection Techniques <br /> (Click Here)  </a> </li>
       </ul>
     ),
   },
