@@ -37,9 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            I'm a Software Developer skilled in Java, Python, and front-end frameworks like ReactJS and Angular.<br />
-            I specialize in creating scalable solutions, developing RESTful APIs, and deploying applications to cloud platforms like Microsoft Azure.<br />
-            I’m passionate about using my expertise in software development and CI/CD to drive impactful projects.
+            I'm a Software Developer skilled in Java, Python, and front-end frameworks like ReactJS and Angular. I specialize in creating scalable solutions, developing RESTful APIs, and deploying applications to cloud platforms like Microsoft Azure. I’m passionate about using my expertise in software development and CI/CD to drive impactful projects.
           </p>
           <div>
             <a
