@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\prith\\source\\repos\\Portfolio-nextjs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prith\\source\\repos\\Portfolio-nextjs\\src\\app\\components\\ProjectsSection.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\ProjectsSection.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prith\\source\\repos\\Portfolio-nextjs\\src\\app\\page.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\page.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prith\\source\\repos\\Portfolio-nextjs\\src\\app\\components\\ProjectCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\ProjectCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prith\\source\\repos\\Portfolio-nextjs\\src\\app\\components\\EmailSection.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\components\\EmailSection.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -17,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prith\\source\\repos\\Portfolio-nextjs\\src\\app\\layout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\layout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prith\\source\\repos\\Portfolio-nextjs\\src\\app\\page.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\page.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 281,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,8 +53,38 @@
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ProjectCard.jsx",
+              "DocumentMoniker": "C:\\Users\\prith\\source\\repos\\Portfolio-nextjs\\src\\app\\components\\ProjectCard.jsx",
+              "RelativeDocumentMoniker": "src\\app\\components\\ProjectCard.jsx",
+              "ToolTip": "C:\\Users\\prith\\source\\repos\\Portfolio-nextjs\\src\\app\\components\\ProjectCard.jsx",
+              "RelativeToolTip": "src\\app\\components\\ProjectCard.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-02T05:27:34.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectsSection.jsx",
+              "DocumentMoniker": "C:\\Users\\prith\\source\\repos\\Portfolio-nextjs\\src\\app\\components\\ProjectsSection.jsx",
+              "RelativeDocumentMoniker": "src\\app\\components\\ProjectsSection.jsx",
+              "ToolTip": "C:\\Users\\prith\\source\\repos\\Portfolio-nextjs\\src\\app\\components\\ProjectsSection.jsx",
+              "RelativeToolTip": "src\\app\\components\\ProjectsSection.jsx",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-02T05:12:10.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AchievementsSection.jsx",
               "DocumentMoniker": "C:\\Users\\prith\\source\\repos\\Portfolio-nextjs\\src\\app\\components\\AchievementsSection.jsx",
               "RelativeDocumentMoniker": "src\\app\\components\\AchievementsSection.jsx",
@@ -54,12 +92,11 @@
               "RelativeToolTip": "src\\app\\components\\AchievementsSection.jsx",
               "ViewState": "AQIAACQAAAAAAAAAAAAAAAgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-09-02T01:27:58.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T01:27:58.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "layout.js",
               "DocumentMoniker": "C:\\Users\\prith\\source\\repos\\Portfolio-nextjs\\src\\app\\layout.js",
               "RelativeDocumentMoniker": "src\\app\\layout.js",
@@ -67,12 +104,11 @@
               "RelativeToolTip": "src\\app\\layout.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-02T01:27:02.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T01:27:02.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "page.js",
               "DocumentMoniker": "C:\\Users\\prith\\source\\repos\\Portfolio-nextjs\\src\\app\\page.js",
               "RelativeDocumentMoniker": "src\\app\\page.js",
@@ -85,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "EmailSection.jsx",
               "DocumentMoniker": "C:\\Users\\prith\\source\\repos\\Portfolio-nextjs\\src\\app\\components\\EmailSection.jsx",
               "RelativeDocumentMoniker": "src\\app\\components\\EmailSection.jsx",
@@ -98,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "HeroSection.jsx",
               "DocumentMoniker": "C:\\Users\\prith\\source\\repos\\Portfolio-nextjs\\src\\app\\components\\HeroSection.jsx",
               "RelativeDocumentMoniker": "src\\app\\components\\HeroSection.jsx",
@@ -106,8 +142,7 @@
               "RelativeToolTip": "src\\app\\components\\HeroSection.jsx",
               "ViewState": "AQIAADYAAAAAAAAAAAAAADMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-09-02T00:38:55.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T00:38:55.699Z"
             }
           ]
         },

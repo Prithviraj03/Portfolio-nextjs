@@ -10,13 +10,13 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li><strong> Programming languages (Backend): </strong> C, C++, Python (Django), Java, Java GUI, MATLAB, R.</li>
-        <li><strong> Web development languages (Frontend): </strong>  HTML, CSS, JavaScript </li>
+        <li><strong> Web development languages (Frontend): </strong>  ): HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS. </li>
         <li><strong> Data Visualization:</strong>  ggplot2, Tidyverse, Matplotlib.</li>
-        <li><strong> Database-related technologies: </strong>  Hadoop, HBase, Apache Hive, Pig, Apache Spark, MongoDB, SQL, NoSQL.</li>
+        <li><strong> Database-related technologies: </strong>  Hadoop, HBase, Apache Hive, Pig, Apache Spark, MongoDB, SQL, NoSQL, MySQL PostgreSQL, SQLite.</li>
         <li><strong> Machine Learning:</strong>  Scikit-learn, TensorFlow, Keras, PyTorch.</li>
         <li><strong> Cloud Technologies:</strong>  Azure, Cloud Data, Cloud Networking, Cloud Security, Cloud Services, Cloud Storage, Virtualization.</li>
         <li><strong> Operating systems: </strong>  Linux, Windows. </li>  
-        <li><strong> Software known: </strong> MATLAB, Tanner Spice, Proteus, XAMPP, NI Multisim, Arduino, Cameo, Excel.</li> 
+        <li><strong> Software known: </strong> MATLAB, Tanner Spice, Proteus, XAMPP, NI Multisim, Arduino, Cameo, Excel, Git, GitHub.</li> 
       </ul>
     ),
   },
