@@ -7,8 +7,8 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "AI Chess",
-    description: "Project 1 description",
+    title: "Pawn to Python: AI Chess",
+    description: "Pawn to Python: AI Chess is an advanced chess-playing AI system designed to simulate real-time, strategic decision-making through various search algorithms and neural network optimizations. This project focuses on developing an AI that can play chess by calculating the best moves through sophisticated search techniques.",
     image: "./images/projects/AI-Chess.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Prithviraj03/Chess_AI.git",
@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 2,
     title: "Polls App",
-    description: "Project 2 description",
+    description: "The Polls App is a dynamic platform designed to create and manage polls, allowing users to vote and track results in real-time. The app integrates Django to manage backend functionalities with a mobile-friendly interface for enhanced user engagement.",
     image: "./images/projects/Polls.png",
     tag: ["All", "Mobile"],
     gitUrl: "https://github.com/Prithviraj03/Polls-Django.git",
@@ -25,8 +25,8 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "Gender Detection",
-    description: "Project 3 description",
+    title: "Gendex: Gender Detection",
+    description: "Gendex uses Convolutional Neural Networks (CNN) to perform gender recognition from images with high accuracy. The model is trained on a diverse dataset of 10,000 images, achieving an impressive 95% accuracy. The system can accurately identify gender in real-time scenarios, with a 92% accuracy rate.",
     image: "./images/projects/Gender-Detection.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Prithviraj03/Gender-Detection-using-CNN.git",
@@ -34,8 +34,8 @@ const projectsData = [
   },
   {
     id: 4,
-    title: "Real Time Object Detection",
-    description: "Project 4 description",
+    title: "EdgeScope: Real Time Object Detection",
+    description: "EdgeScope is an innovative real-time object detection system based on advanced edge detection techniques. By conducting in-depth research on 10 edge detection methods, the project optimized object detection performance, achieving a 15% improvement in accuracy and 20% faster processing speed for both still and real-time images.",
     image: "./images/projects/RTOD.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Prithviraj03/Real-Time-Object-Detection-Using-Different-Edge-Detection-Technique.git",
