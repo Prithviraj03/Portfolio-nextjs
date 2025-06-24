@@ -8,7 +8,7 @@ const fromEmail = process.env.FROM_EMAIL;
 const transport = Nodemailer.createTransport(
     MailtrapTransport({
         token: TOKEN,
-        testInboxId: 3111505, 
+        testInboxId: 3837142, 
     })
 );
 
