@@ -9,8 +9,8 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-2">
-        <li><strong> Programming languages (Backend): </strong> C, C++, Python (Django), Java, Java GUI, MATLAB, R.</li>
-        <li><strong> Web development languages (Frontend): </strong>  ): HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS. </li>
+        <li><strong> Programming languages (Backend): </strong> C, C++, C# Python (Django), Java, Java GUI, MATLAB, R.</li>
+        <li><strong> Web development languages (Frontend): </strong>  ): HTML, CSS, JavaScript, Angular, ASP.NET, React.js, Next.js, Tailwind CSS. </li>
         <li><strong> Data Visualization:</strong>  ggplot2, Tidyverse, Matplotlib.</li>
         <li><strong> Database-related technologies: </strong>  Hadoop, HBase, Apache Hive, Pig, Apache Spark, MongoDB, SQL, NoSQL, MySQL PostgreSQL, SQLite.</li>
         <li><strong> Machine Learning:</strong>  Scikit-learn, TensorFlow, Keras, PyTorch.</li>

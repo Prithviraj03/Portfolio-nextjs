@@ -43,11 +43,11 @@ const projectsData = [
   },
   {
     id: 5,
-    title: "React Firebase Template",
-    description: "Authentication and CRUD operations",
+    title: "SmartFlow",
+    description: "This app can help you manage your tasks efficiently. UNDER DEVELOPMENT",
     image: "./images/projects/5.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/Prithviraj03/smart-flow",
     previewUrl: "/",
   },
   {
