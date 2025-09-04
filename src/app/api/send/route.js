@@ -1,44 +1,25 @@
-import { NextResponse } from "next/server";
-import Nodemailer from "nodemailer";
-import { MailtrapTransport } from "mailtrap";
+import { Resend } from "resend";
 
-const TOKEN = process.env.MAILTRAP_TOKEN;  
-const fromEmail = process.env.FROM_EMAIL;  
+const resend = new Resend(process.env.RESEND_API_KEY);
 
-const transport = Nodemailer.createTransport(
-    MailtrapTransport({
-        token: TOKEN,
-        testInboxId: 3111505, 
-    })
-);
-
-export async function POST(req, res) {
-   
+export async function POST(req) {
+  try {
     const { email, subject, message } = await req.json();
-    console.log(email, subject, message);
-    try {
-   
-        const data = await transport.sendMail({
-            from: fromEmail, 
-            to: [fromEmail, email], 
-            subject: subject || "No Subject", 
-            text: message || "No Message", 
-            react: (
-                <>
-                    <h1>{subject}</h1>
-                    <p>Thank you for contacting us!</p>
-                    <p>New message submitted:</p>
-                    <p>{message}</p>
-                </>
-            ),
-        });
 
-        console.log("Email sent: ", data);
+    const data = await resend.emails.send({
+      from: "onboarding@resend.dev",
+      to: "pprithviraj18@gmail.com",
+      subject: subject,
+      html: `<p><strong>From:</strong> ${email}</p>
+             <p><strong>Message:</strong></p>
+             <p>${message}</p>`,
+      reply_to: email,
+    });
 
-        
-        return NextResponse.json({ success: true, message: "Email sent successfully", data });
-    } catch (error) {
-        console.error("Error sending email: ", error);
-        return NextResponse.json({ success: false, error: error.message }, { status: 500 });
-    }
+    return Response.json({ success: true, data }); 
+  } catch (error) {
+    console.error(error);
+    return Response.json({ success: false, error });
+  }
 }
+ 

@@ -7,7 +7,7 @@ import Link from "next/link";
 
 const HeroSection = () => {
   return (
-    <section className="lg:py-16">
+    <section className="lg:py-16 scroll-mt-16" id="hero">
       <div className="grid grid-cols-1 sm:grid-cols-12">
         <motion.div
           initial={{ opacity: 0, scale: 0.5 }}
@@ -27,8 +27,6 @@ const HeroSection = () => {
                 "Web Developer",
                 1000,
                 "Mobile Developer",
-                1000,
-                "UI/UX Designer",
                 1000,
               ]}
               wrapper="span"
