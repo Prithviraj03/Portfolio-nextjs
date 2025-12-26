@@ -30,7 +30,7 @@ const projectsData = [
     image: "./images/projects/Gender-Detection.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Prithviraj03/Gender-Detection-using-CNN.git",
-    previewUrl: "/",
+    previewUrl: "https://gendex.streamlit.app/",
   },
   {
     id: 4,
